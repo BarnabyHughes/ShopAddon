@@ -1,0 +1,10 @@
+config:
+  # This is how often the market will fluctuate, only use s,m,h but only one so 2h, 2h 30m wont work!
+  time-period: 2h
+
+  fluctuation-gone-up: "&a↑ {percent}%"
+  fluctuation-gone-down: "&c↓ {percent}%"
+
+
+
+
